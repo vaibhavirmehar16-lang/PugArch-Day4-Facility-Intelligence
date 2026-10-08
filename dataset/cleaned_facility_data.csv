@@ -1,0 +1,154 @@
+facility_id,location,cleanliness_score,odor_score,waste_level,water_availability,footfall,complaints,hours_since_cleaning,inspection_date,hygiene_risk
+FAC_001,CSMT Concourse,5.85,3.42,Low,Yes,1537,11,5,2026-10-06,Low
+FAC_002,IGI T3 Terminal,7.37,2.26,High,Yes,814,8,1,2026-09-26,Low
+FAC_003,CSMT Concourse,8.21,1.95,Low,Yes,1795,0,6,2026-07-26,Low
+FAC_004,IGI T3 Terminal,7.68,1.87,Low,Yes,1013,10,16,2026-09-10,Low
+FAC_005,IGI T3 Terminal,6.31,3.35,Medium,Yes,1316,15,22,2026-07-18,High
+FAC_006,Electronic City Hub,7.89,2.23,High,Yes,1241,9,3,2026-07-26,Low
+FAC_007,IGI T3 Terminal,5.77,3.02,High,Yes,2363,15,4,2026-07-12,High
+FAC_008,IGI T3 Terminal,6.15,2.71,Medium,Yes,1908,15,15,2026-08-27,Low
+FAC_009,Howrah Main Hub,7.91,1.85,High,Yes,1734,11,24,2026-08-26,High
+FAC_010,Electronic City Hub,8.33,1.95,Critical,Yes,1498,8,6,2026-08-02,High
+FAC_011,CSMT Concourse,8.02,1.52,Medium,Yes,1530,7,10,2026-07-31,Low
+FAC_012,Howrah Main Hub,6.84,3.17,Low,Yes,1112,16,19,2026-07-28,Low
+FAC_013,IGI T3 Terminal,4.56,2.72,Critical,No,642,29,29,2026-09-02,High
+FAC_014,CSMT Concourse,6.75,2.53,Medium,Yes,1757,12,11,2026-08-22,Low
+FAC_015,Howrah Main Hub,5.73,2.9,Low,Yes,825,16,16,2026-09-19,Low
+FAC_016,Howrah Main Hub,4.44,3.95,Critical,No,1710,27,23,2026-07-12,High
+FAC_017,Connaught Place Metro,6.34,2.58,High,Yes,1605,10,1,2026-07-20,High
+FAC_018,IGI T3 Terminal,6.59,2.78,Critical,Yes,1619,13,3,2026-08-11,High
+FAC_019,Connaught Place Metro,7.07,2.38,High,Yes,1699,8,9,2026-09-11,Low
+FAC_020,CSMT Concourse,3.28,4.15,Critical,Yes,2748,27,18,2026-09-10,High
+FAC_021,Electronic City Hub,8.89,1.45,Critical,Yes,1229,5,13,2026-09-05,Low
+FAC_022,Connaught Place Metro,5.96,2.98,Medium,Yes,1307,10,2,2026-08-30,High
+FAC_023,Electronic City Hub,7.51,2.09,Low,Yes,1595,10,12,2026-09-21,Low
+FAC_024,Connaught Place Metro,6.91,2.31,Medium,Yes,1161,12,21,2026-08-02,Low
+FAC_025,Connaught Place Metro,7.43,2.41,Critical,Yes,939,13,16,2026-08-19,Low
+FAC_026,IGI T3 Terminal,9.1,1.05,High,Yes,1560,4,14,2026-08-05,High
+FAC_027,CSMT Concourse,5.41,3.61,High,Yes,1224,12,1,2026-09-20,High
+FAC_028,Electronic City Hub,7.61,2.54,Medium,Yes,942,17,17,2026-07-25,High
+FAC_029,Electronic City Hub,5.91,2.38,Medium,Yes,1586,11,9,2026-08-03,High
+FAC_030,CSMT Concourse,6.4,2.82,Medium,Yes,1213,16,28,2026-07-14,Low
+FAC_031,Connaught Place Metro,5.85,2.57,High,Yes,1328,19,50,2026-09-05,High
+FAC_032,Howrah Main Hub,6.47,3.18,High,Yes,2195,14,24,2026-08-15,Low
+FAC_033,Howrah Main Hub,6.26,2.99,Medium,Yes,965,20,34,2026-08-06,High
+FAC_034,CSMT Concourse,8.41,1.96,Low,Yes,993,12,38,2026-07-21,Low
+FAC_035,Connaught Place Metro,7.78,2.0,High,Yes,1105,8,20,2026-09-14,Low
+FAC_036,Connaught Place Metro,7.05,2.59,Medium,Yes,1477,20,21,2026-08-03,High
+FAC_037,Electronic City Hub,6.59,2.63,Medium,Yes,1987,13,11,2026-10-07,High
+FAC_038,Howrah Main Hub,6.03,2.37,Critical,Yes,2091,16,18,2026-09-09,High
+FAC_039,CSMT Concourse,7.02,2.91,Critical,Yes,2175,11,4,2026-09-29,High
+FAC_040,Connaught Place Metro,8.04,1.88,Low,Yes,997,10,19,2026-09-23,Low
+FAC_041,Connaught Place Metro,9.03,1.54,Critical,Yes,1551,7,37,2026-09-18,High
+FAC_042,Electronic City Hub,3.9,3.75,Critical,No,1378,24,5,2026-09-12,High
+FAC_043,IGI T3 Terminal,5.48,3.36,Medium,Yes,1812,16,5,2026-08-31,High
+FAC_044,Howrah Main Hub,6.03,2.99,High,Yes,1182,30,23,2026-08-14,High
+FAC_045,IGI T3 Terminal,6.3,2.85,Low,Yes,1330,16,27,2026-09-11,Low
+FAC_046,Connaught Place Metro,7.32,2.47,Low,Yes,912,18,36,2026-09-10,Low
+FAC_047,CSMT Concourse,6.83,2.14,High,Yes,1016,21,72,2026-09-10,High
+FAC_048,Howrah Main Hub,5.35,3.19,Medium,Yes,1942,15,10,2026-09-30,High
+FAC_049,Electronic City Hub,6.51,2.77,High,Yes,921,11,24,2026-09-12,High
+FAC_050,Connaught Place Metro,9.97,1.0,Low,Yes,739,7,9,2026-07-28,Low
+FAC_051,Electronic City Hub,4.78,3.59,Critical,Yes,2707,19,1,2026-09-15,High
+FAC_052,Howrah Main Hub,6.88,2.89,High,Yes,955,11,5,2026-08-16,High
+FAC_053,CSMT Concourse,5.41,3.3,Medium,Yes,1339,15,2,2026-07-15,Low
+FAC_054,CSMT Concourse,7.81,2.49,High,Yes,1150,11,12,2026-08-19,Low
+FAC_055,CSMT Concourse,7.2,2.2,Medium,Yes,1423,9,1,2026-09-08,Low
+FAC_056,IGI T3 Terminal,8.35,1.99,High,Yes,2341,5,1,2026-08-16,Low
+FAC_057,CSMT Concourse,6.64,2.92,High,Yes,1936,14,4,2026-08-14,High
+FAC_058,CSMT Concourse,5.76,3.04,Medium,Yes,1604,17,24,2026-10-03,High
+FAC_059,CSMT Concourse,4.87,3.58,Critical,No,1268,25,3,2026-09-28,High
+FAC_060,IGI T3 Terminal,6.89,2.68,Low,Yes,2748,12,16,2026-08-18,High
+FAC_061,Electronic City Hub,7.63,2.84,Low,Yes,609,12,5,2026-10-02,Low
+FAC_062,Electronic City Hub,4.92,3.27,Critical,No,1252,25,7,2026-09-06,High
+FAC_063,Howrah Main Hub,9.45,2.99,High,Yes,1662,9,10,2026-08-16,Low
+FAC_064,Connaught Place Metro,8.28,1.79,Low,Yes,1597,6,2,2026-07-17,Low
+FAC_065,Howrah Main Hub,3.47,4.67,Critical,No,1845,30,55,2026-09-12,High
+FAC_066,Connaught Place Metro,6.91,3.05,Low,Yes,1927,8,1,2026-10-02,Low
+FAC_067,Connaught Place Metro,5.68,3.07,High,Yes,1369,18,21,2026-08-09,High
+FAC_068,IGI T3 Terminal,3.68,4.3,High,No,1085,30,49,2026-10-02,High
+FAC_069,IGI T3 Terminal,8.7,1.89,Medium,Yes,1540,10,22,2026-10-01,High
+FAC_070,IGI T3 Terminal,7.74,2.74,High,Yes,1432,13,28,2026-08-19,High
+FAC_071,IGI T3 Terminal,6.89,4.04,Medium,Yes,1665,23,35,2026-07-27,High
+FAC_072,Electronic City Hub,8.26,2.28,Low,Yes,1143,11,17,2026-07-17,Low
+FAC_073,Howrah Main Hub,6.08,2.99,Medium,Yes,1521,14,3,2026-09-13,Low
+FAC_074,Howrah Main Hub,5.82,3.13,Medium,Yes,1849,13,5,2026-08-20,High
+FAC_075,Electronic City Hub,5.26,3.76,Critical,No,1029,26,11,2026-08-30,High
+FAC_076,CSMT Concourse,8.29,2.08,Medium,Yes,1785,10,19,2026-08-12,High
+FAC_077,CSMT Concourse,9.29,2.58,Low,Yes,498,6,1,2026-09-30,Low
+FAC_078,IGI T3 Terminal,3.37,3.89,Critical,No,678,27,6,2026-08-26,High
+FAC_079,Howrah Main Hub,7.56,1.77,High,Yes,1635,9,7,2026-09-03,Low
+FAC_080,Howrah Main Hub,5.18,3.77,High,No,1715,26,17,2026-07-23,High
+FAC_081,Connaught Place Metro,6.97,2.64,Medium,Yes,1082,10,3,2026-10-08,Low
+FAC_082,CSMT Concourse,6.85,2.6,High,Yes,1634,7,3,2026-09-22,High
+FAC_083,Connaught Place Metro,5.27,2.64,Medium,Yes,816,15,1,2026-09-20,Low
+FAC_084,Howrah Main Hub,7.46,2.7,High,Yes,1271,14,29,2026-09-13,High
+FAC_085,Connaught Place Metro,6.42,2.57,Critical,Yes,2009,9,4,2026-08-08,High
+FAC_086,CSMT Concourse,7.02,2.98,High,Yes,1000,0,21,2026-09-28,High
+FAC_087,CSMT Concourse,5.85,3.32,High,Yes,1576,21,72,2026-10-09,High
+FAC_088,Howrah Main Hub,6.41,2.99,Medium,Yes,1817,14,25,2026-09-19,High
+FAC_089,Electronic City Hub,6.95,2.7,Low,Yes,-48,13,3,2026-07-30,Low
+FAC_090,IGI T3 Terminal,5.28,3.83,Medium,Yes,1245,19,9,2026-08-01,High
+FAC_091,Connaught Place Metro,7.03,2.67,Low,Yes,1572,15,4,2026-09-21,High
+FAC_092,Howrah Main Hub,5.21,3.87,Low,No,1431,24,6,2026-10-04,High
+FAC_093,IGI T3 Terminal,7.61,1.95,High,Yes,1388,6,9,2026-07-16,Low
+FAC_094,Electronic City Hub,6.6,2.67,Critical,Yes,897,14,4,2026-07-22,High
+FAC_095,IGI T3 Terminal,5.45,3.22,High,No,967,25,27,2026-09-19,High
+FAC_096,Electronic City Hub,6.76,2.77,Critical,Yes,1678,13,12,2026-10-06,High
+FAC_097,Electronic City Hub,4.39,4.42,Critical,No,2568,26,3,2026-07-16,High
+FAC_098,Howrah Main Hub,6.98,2.3,Low,Yes,1374,9,9,2026-09-19,High
+FAC_099,CSMT Concourse,8.61,1.85,High,Yes,1699,7,3,2026-08-10,High
+FAC_100,Electronic City Hub,8.42,1.18,High,Yes,1261,2,1,2026-08-26,Low
+FAC_101,IGI T3 Terminal,8.97,1.85,Low,Yes,727,9,40,2026-09-11,Low
+FAC_102,Howrah Main Hub,4.29,4.82,Critical,No,250,30,48,2026-09-04,High
+FAC_103,Howrah Main Hub,5.17,3.41,Medium,Yes,1609,19,31,2026-08-26,High
+FAC_104,Connaught Place Metro,5.45,3.6,Low,No,1755,24,7,2026-08-28,Low
+FAC_105,Howrah Main Hub,5.04,3.27,Critical,Yes,2133,18,6,2026-09-17,High
+FAC_106,CSMT Concourse,9.09,1.52,Medium,Yes,1200,11,21,2026-09-26,Low
+FAC_107,Howrah Main Hub,5.98,2.93,Medium,Yes,1237,10,1,2026-08-15,High
+FAC_108,Electronic City Hub,6.5,3.22,Low,Yes,1686,14,23,2026-07-28,High
+FAC_109,Electronic City Hub,6.13,3.1,High,Yes,641,16,25,2026-10-09,High
+FAC_110,IGI T3 Terminal,7.46,1.97,Critical,Yes,1328,11,11,2026-08-24,Low
+FAC_111,Howrah Main Hub,7.92,2.19,High,Yes,1573,11,19,2026-07-22,High
+FAC_112,Howrah Main Hub,6.22,2.6,Medium,Yes,1261,11,9,2026-08-06,High
+FAC_113,Electronic City Hub,7.63,2.25,Low,Yes,1368,11,7,2026-07-12,Low
+FAC_114,Electronic City Hub,6.76,3.48,Critical,No,1732,24,13,2026-07-16,High
+FAC_115,IGI T3 Terminal,7.11,2.59,Medium,Yes,748,15,29,2026-07-23,High
+FAC_116,CSMT Concourse,8.94,2.58,Low,Yes,745,8,12,2026-09-01,Low
+FAC_117,Connaught Place Metro,5.7,3.13,High,Yes,315,24,62,2026-07-24,High
+FAC_118,Electronic City Hub,4.77,3.43,High,Yes,2298,23,33,2026-07-15,High
+FAC_119,IGI T3 Terminal,7.52,2.93,Medium,Yes,849,12,16,2026-07-17,Low
+FAC_120,Connaught Place Metro,5.53,3.18,Critical,Yes,656,18,18,2026-08-28,High
+FAC_121,IGI T3 Terminal,4.89,3.84,Critical,Yes,1508,20,11,2026-07-15,High
+FAC_122,IGI T3 Terminal,6.37,3.08,Critical,Yes,1117,20,43,2026-10-06,High
+FAC_123,Connaught Place Metro,7.9,1.73,High,Yes,641,7,20,2026-09-30,High
+FAC_124,Connaught Place Metro,6.15,2.55,Medium,Yes,1600,14,16,2026-09-15,High
+FAC_125,Electronic City Hub,9.09,1.32,Low,Yes,1123,5,1,2026-09-08,Low
+FAC_126,CSMT Concourse,7.81,2.58,High,Yes,1121,14,26,2026-08-16,High
+FAC_127,Connaught Place Metro,4.06,4.65,High,Yes,931,27,54,2026-08-11,High
+FAC_128,CSMT Concourse,7.02,2.56,Medium,Yes,528,12,25,2026-08-12,High
+FAC_129,Connaught Place Metro,7.88,1.58,Critical,Yes,1660,14,27,2026-07-30,High
+FAC_130,Electronic City Hub,6.76,2.64,High,Yes,1477,12,29,2026-07-23,High
+FAC_131,Electronic City Hub,6.76,3.37,Low,Yes,1473,16,6,2026-07-31,High
+FAC_132,Electronic City Hub,7.96,2.17,Low,Yes,903,9,6,2026-08-13,Low
+FAC_133,Howrah Main Hub,5.88,2.55,Low,Yes,1945,12,9,2026-08-04,Low
+FAC_134,Electronic City Hub,7.09,2.77,Low,Yes,1245,12,15,2026-09-30,Low
+FAC_135,Howrah Main Hub,1.67,5.0,High,No,1164,30,21,2026-08-30,High
+FAC_136,IGI T3 Terminal,8.29,2.01,Low,Yes,807,11,19,2026-09-10,High
+FAC_137,IGI T3 Terminal,7.7,2.14,Medium,Yes,1589,10,3,2026-10-01,Low
+FAC_138,Electronic City Hub,5.62,3.13,High,Yes,1963,17,12,2026-08-17,High
+FAC_139,Electronic City Hub,3.5,4.23,High,No,2074,27,11,2026-07-27,High
+FAC_140,Connaught Place Metro,4.27,3.69,Critical,Yes,2748,13,1,2026-08-22,High
+FAC_141,Howrah Main Hub,6.03,4.15,Critical,No,966,28,19,2026-08-21,High
+FAC_142,Electronic City Hub,7.13,2.86,Medium,Yes,936,13,30,2026-08-02,High
+FAC_143,Connaught Place Metro,6.91,2.83,Medium,Yes,1651,12,1,2026-09-11,Low
+FAC_144,Electronic City Hub,7.18,2.39,Medium,Yes,934,9,12,2026-10-06,Low
+FAC_145,Electronic City Hub,4.54,3.48,Critical,No,1708,26,10,2026-09-18,High
+FAC_146,Connaught Place Metro,5.25,3.15,Medium,Yes,373,17,13,2026-08-02,High
+FAC_147,Connaught Place Metro,5.72,2.83,Medium,Yes,1745,15,12,2026-07-17,High
+FAC_148,IGI T3 Terminal,6.89,2.68,Medium,Yes,1646,12,1,2026-08-11,Low
+FAC_149,Howrah Main Hub,5.09,2.77,Medium,Yes,1763,16,1,2026-09-12,High
+FAC_150,Electronic City Hub,4.78,3.75,Critical,Yes,940,20,3,2026-09-04,High
+FAC_019,Connaught Place Metro,7.07,2.38,High,Yes,1699,8,9,2026-09-11,Low
+FAC_079,Howrah Main Hub,7.56,1.77,High,Yes,1635,0,7,2026-09-03,Low
+FAC_077,CSMT Concourse,9.29,1.21,Low,Yes,498,6,1,2026-09-30,Low

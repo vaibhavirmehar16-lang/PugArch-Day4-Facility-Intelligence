@@ -1,0 +1,175 @@
+{
+  "dataset_summary": {
+    "rows": 150,
+    "facilities": 150,
+    "average_cleanliness": 6.956666666666667,
+    "average_odor": 2.6605999999999996,
+    "total_complaints": 680,
+    "water_availability_rate": 82.66666666666667
+  },
+  "location_summary": {
+    "South Wing": {
+      "mean_cleanliness": 6.736,
+      "mean_odor": 2.778,
+      "mean_footfall": 1015.737,
+      "total_complaints": 183,
+      "facility_count": 38
+    },
+    "West Terminal": {
+      "mean_cleanliness": 6.794,
+      "mean_odor": 2.765,
+      "mean_footfall": 1953.64,
+      "total_complaints": 102,
+      "facility_count": 25
+    },
+    "North Wing": {
+      "mean_cleanliness": 6.95,
+      "mean_odor": 2.586,
+      "mean_footfall": 1227.971,
+      "total_complaints": 146,
+      "facility_count": 34
+    },
+    "East Concourse": {
+      "mean_cleanliness": 6.96,
+      "mean_odor": 2.683,
+      "mean_footfall": 1885.75,
+      "total_complaints": 145,
+      "facility_count": 28
+    },
+    "Central Hub": {
+      "mean_cleanliness": 7.46,
+      "mean_odor": 2.453,
+      "mean_footfall": 2033.08,
+      "total_complaints": 104,
+      "facility_count": 25
+    }
+  },
+  "water_summary": {
+    "No": {
+      "total_complaints": 156,
+      "average_complaints": 6.0,
+      "average_cleanliness": 6.933,
+      "average_odor": 2.612,
+      "facility_count": 26
+    },
+    "Yes": {
+      "total_complaints": 524,
+      "average_complaints": 4.226,
+      "average_cleanliness": 6.962,
+      "average_odor": 2.671,
+      "facility_count": 124
+    }
+  },
+  "waste_summary": {
+    "Low": {
+      "mean_footfall": 1544.333,
+      "mean_complaints": 4.317,
+      "mean_cleanliness": 6.82,
+      "facility_count": 60
+    },
+    "Medium": {
+      "mean_footfall": 1521.55,
+      "mean_complaints": 3.733,
+      "mean_cleanliness": 7.184,
+      "facility_count": 60
+    },
+    "High": {
+      "mean_footfall": 1665.957,
+      "mean_complaints": 6.783,
+      "mean_cleanliness": 6.735,
+      "facility_count": 23
+    },
+    "Critical": {
+      "mean_footfall": 1506.857,
+      "mean_complaints": 5.857,
+      "mean_cleanliness": 6.914,
+      "facility_count": 7
+    }
+  },
+  "correlation_matrix": {
+    "cleanliness_score": {
+      "cleanliness_score": 1.0,
+      "odor_score": -0.4556,
+      "footfall": 0.1647,
+      "complaints": -0.199
+    },
+    "odor_score": {
+      "cleanliness_score": -0.4556,
+      "odor_score": 1.0,
+      "footfall": -0.0407,
+      "complaints": 0.2882
+    },
+    "footfall": {
+      "cleanliness_score": 0.1647,
+      "odor_score": -0.0407,
+      "footfall": 1.0,
+      "complaints": 0.0093
+    },
+    "complaints": {
+      "cleanliness_score": -0.199,
+      "odor_score": 0.2882,
+      "footfall": 0.0093,
+      "complaints": 1.0
+    }
+  },
+  "odor_complaints_correlation": 0.2882073273107663,
+  "risk_by_location": {
+    "Central Hub": {
+      "avg_footfall": 2033.08,
+      "avg_cleanliness": 7.46,
+      "avg_complaints": 4.16,
+      "footfall_component": 0.632,
+      "cleanliness_risk_component": 0.423,
+      "risk_score": 0.548
+    },
+    "East Concourse": {
+      "avg_footfall": 1885.75,
+      "avg_cleanliness": 6.96,
+      "avg_complaints": 5.179,
+      "footfall_component": 0.59,
+      "cleanliness_risk_component": 0.506,
+      "risk_score": 0.557
+    },
+    "North Wing": {
+      "avg_footfall": 1227.971,
+      "avg_cleanliness": 6.95,
+      "avg_complaints": 4.294,
+      "footfall_component": 0.405,
+      "cleanliness_risk_component": 0.508,
+      "risk_score": 0.446
+    },
+    "South Wing": {
+      "avg_footfall": 1015.737,
+      "avg_cleanliness": 6.736,
+      "avg_complaints": 4.816,
+      "footfall_component": 0.345,
+      "cleanliness_risk_component": 0.543,
+      "risk_score": 0.424
+    },
+    "West Terminal": {
+      "avg_footfall": 1953.64,
+      "avg_cleanliness": 6.794,
+      "avg_complaints": 4.08,
+      "footfall_component": 0.609,
+      "cleanliness_risk_component": 0.533,
+      "risk_score": 0.579
+    }
+  },
+  "insights": [
+    {
+      "title": "Odor and Complaints",
+      "metric": 0.2882073273107663,
+      "text": "The Pearson correlation between odor score and complaints is 0.29. A positive value indicates that higher odor severity tends to be associated with more registered complaints."
+    },
+    {
+      "title": "Water Availability Impact",
+      "metric": 0.02807071960297769,
+      "text": "Facilities with water availability show a 0.03-point cleanliness difference versus facilities without water availability. The complaint-rate gap is 1.77 complaints per facility in favor of water-available sites."
+    },
+    {
+      "title": "Highest-Risk Location",
+      "metric": 0.5790367153335989,
+      "text": "West Terminal is the highest-risk location under the weighted operational risk score, with average footfall of 1954, average cleanliness of 6.79, and average complaints of 4.08."
+    }
+  ]
+}

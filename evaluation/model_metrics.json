@@ -1,0 +1,68 @@
+{
+  "target": "hygiene_risk",
+  "features": [
+    "cleanliness_score",
+    "odor_score",
+    "waste_level",
+    "water_availability",
+    "footfall",
+    "complaints",
+    "hours_since_cleaning"
+  ],
+  "test_size": 0.2,
+  "random_state": 42,
+  "best_model": "Random Forest",
+  "models": {
+    "Logistic Regression": {
+      "accuracy": 0.7419,
+      "precision": 0.7895,
+      "recall": 0.7895,
+      "f1_score": 0.7895,
+      "mae_probability": 0.319,
+      "mse_probability": 0.1801,
+      "rmse_probability": 0.4244,
+      "confusion_matrix": {
+        "labels": [
+          "Low",
+          "High"
+        ],
+        "matrix": [
+          [
+            8,
+            4
+          ],
+          [
+            4,
+            15
+          ]
+        ]
+      }
+    },
+    "Random Forest": {
+      "accuracy": 0.7742,
+      "precision": 0.7727,
+      "recall": 0.8947,
+      "f1_score": 0.8293,
+      "mae_probability": 0.309,
+      "mse_probability": 0.1676,
+      "rmse_probability": 0.4094,
+      "confusion_matrix": {
+        "labels": [
+          "Low",
+          "High"
+        ],
+        "matrix": [
+          [
+            7,
+            5
+          ],
+          [
+            2,
+            17
+          ]
+        ]
+      }
+    }
+  },
+  "note": "The hygiene_risk label is a synthetic educational target generated from operational signals; it demonstrates the complete ML workflow and should be replaced by historical labeled outcomes in production."
+}

@@ -1,0 +1,154 @@
+facility_id,location,segment
+FAC_001,CSMT Concourse,0
+FAC_002,IGI T3 Terminal,2
+FAC_003,CSMT Concourse,2
+FAC_004,IGI T3 Terminal,2
+FAC_005,IGI T3 Terminal,0
+FAC_006,Electronic City Hub,2
+FAC_007,IGI T3 Terminal,0
+FAC_008,IGI T3 Terminal,0
+FAC_009,Howrah Main Hub,2
+FAC_010,Electronic City Hub,2
+FAC_011,CSMT Concourse,2
+FAC_012,Howrah Main Hub,0
+FAC_013,IGI T3 Terminal,1
+FAC_014,CSMT Concourse,0
+FAC_015,Howrah Main Hub,0
+FAC_016,Howrah Main Hub,1
+FAC_017,Connaught Place Metro,0
+FAC_018,IGI T3 Terminal,0
+FAC_019,Connaught Place Metro,2
+FAC_020,CSMT Concourse,1
+FAC_021,Electronic City Hub,2
+FAC_022,Connaught Place Metro,0
+FAC_023,Electronic City Hub,2
+FAC_024,Connaught Place Metro,2
+FAC_025,Connaught Place Metro,2
+FAC_026,IGI T3 Terminal,2
+FAC_027,CSMT Concourse,0
+FAC_028,Electronic City Hub,2
+FAC_029,Electronic City Hub,0
+FAC_030,CSMT Concourse,0
+FAC_031,Connaught Place Metro,1
+FAC_032,Howrah Main Hub,0
+FAC_033,Howrah Main Hub,1
+FAC_034,CSMT Concourse,2
+FAC_035,Connaught Place Metro,2
+FAC_036,Connaught Place Metro,0
+FAC_037,Electronic City Hub,0
+FAC_038,Howrah Main Hub,0
+FAC_039,CSMT Concourse,0
+FAC_040,Connaught Place Metro,2
+FAC_041,Connaught Place Metro,2
+FAC_042,Electronic City Hub,1
+FAC_043,IGI T3 Terminal,0
+FAC_044,Howrah Main Hub,1
+FAC_045,IGI T3 Terminal,0
+FAC_046,Connaught Place Metro,2
+FAC_047,CSMT Concourse,1
+FAC_048,Howrah Main Hub,0
+FAC_049,Electronic City Hub,2
+FAC_050,Connaught Place Metro,2
+FAC_051,Electronic City Hub,0
+FAC_052,Howrah Main Hub,2
+FAC_053,CSMT Concourse,0
+FAC_054,CSMT Concourse,2
+FAC_055,CSMT Concourse,2
+FAC_056,IGI T3 Terminal,2
+FAC_057,CSMT Concourse,0
+FAC_058,CSMT Concourse,0
+FAC_059,CSMT Concourse,1
+FAC_060,IGI T3 Terminal,0
+FAC_061,Electronic City Hub,2
+FAC_062,Electronic City Hub,1
+FAC_063,Howrah Main Hub,2
+FAC_064,Connaught Place Metro,2
+FAC_065,Howrah Main Hub,1
+FAC_066,Connaught Place Metro,0
+FAC_067,Connaught Place Metro,0
+FAC_068,IGI T3 Terminal,1
+FAC_069,IGI T3 Terminal,2
+FAC_070,IGI T3 Terminal,2
+FAC_071,IGI T3 Terminal,1
+FAC_072,Electronic City Hub,2
+FAC_073,Howrah Main Hub,0
+FAC_074,Howrah Main Hub,0
+FAC_075,Electronic City Hub,1
+FAC_076,CSMT Concourse,2
+FAC_077,CSMT Concourse,2
+FAC_078,IGI T3 Terminal,1
+FAC_079,Howrah Main Hub,2
+FAC_080,Howrah Main Hub,1
+FAC_081,Connaught Place Metro,2
+FAC_082,CSMT Concourse,0
+FAC_083,Connaught Place Metro,0
+FAC_084,Howrah Main Hub,2
+FAC_085,Connaught Place Metro,0
+FAC_086,CSMT Concourse,2
+FAC_087,CSMT Concourse,1
+FAC_088,Howrah Main Hub,0
+FAC_089,Electronic City Hub,2
+FAC_090,IGI T3 Terminal,1
+FAC_091,Connaught Place Metro,0
+FAC_092,Howrah Main Hub,1
+FAC_093,IGI T3 Terminal,2
+FAC_094,Electronic City Hub,2
+FAC_095,IGI T3 Terminal,1
+FAC_096,Electronic City Hub,0
+FAC_097,Electronic City Hub,1
+FAC_098,Howrah Main Hub,2
+FAC_099,CSMT Concourse,2
+FAC_100,Electronic City Hub,2
+FAC_101,IGI T3 Terminal,2
+FAC_102,Howrah Main Hub,1
+FAC_103,Howrah Main Hub,1
+FAC_104,Connaught Place Metro,1
+FAC_105,Howrah Main Hub,0
+FAC_106,CSMT Concourse,2
+FAC_107,Howrah Main Hub,0
+FAC_108,Electronic City Hub,0
+FAC_109,Electronic City Hub,1
+FAC_110,IGI T3 Terminal,2
+FAC_111,Howrah Main Hub,2
+FAC_112,Howrah Main Hub,0
+FAC_113,Electronic City Hub,2
+FAC_114,Electronic City Hub,0
+FAC_115,IGI T3 Terminal,2
+FAC_116,CSMT Concourse,2
+FAC_117,Connaught Place Metro,1
+FAC_118,Electronic City Hub,1
+FAC_119,IGI T3 Terminal,2
+FAC_120,Connaught Place Metro,1
+FAC_121,IGI T3 Terminal,1
+FAC_122,IGI T3 Terminal,1
+FAC_123,Connaught Place Metro,2
+FAC_124,Connaught Place Metro,0
+FAC_125,Electronic City Hub,2
+FAC_126,CSMT Concourse,2
+FAC_127,Connaught Place Metro,1
+FAC_128,CSMT Concourse,2
+FAC_129,Connaught Place Metro,2
+FAC_130,Electronic City Hub,0
+FAC_131,Electronic City Hub,0
+FAC_132,Electronic City Hub,2
+FAC_133,Howrah Main Hub,0
+FAC_134,Electronic City Hub,2
+FAC_135,Howrah Main Hub,1
+FAC_136,IGI T3 Terminal,2
+FAC_137,IGI T3 Terminal,2
+FAC_138,Electronic City Hub,0
+FAC_139,Electronic City Hub,1
+FAC_140,Connaught Place Metro,0
+FAC_141,Howrah Main Hub,1
+FAC_142,Electronic City Hub,2
+FAC_143,Connaught Place Metro,0
+FAC_144,Electronic City Hub,2
+FAC_145,Electronic City Hub,1
+FAC_146,Connaught Place Metro,1
+FAC_147,Connaught Place Metro,0
+FAC_148,IGI T3 Terminal,0
+FAC_149,Howrah Main Hub,0
+FAC_150,Electronic City Hub,1
+FAC_019,Connaught Place Metro,2
+FAC_079,Howrah Main Hub,2
+FAC_077,CSMT Concourse,2

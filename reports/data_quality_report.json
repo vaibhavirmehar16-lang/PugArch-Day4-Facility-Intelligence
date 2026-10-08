@@ -1,0 +1,16 @@
+{
+  "rows_before_cleaning": 155,
+  "rows_after_cleaning": 153,
+  "duplicate_rows_removed": 2,
+  "negative_complaints_replaced_with_zero": 3,
+  "missing_water_values_imputed": 12,
+  "footfall_q1": 1000.0,
+  "footfall_q3": 1699.0,
+  "footfall_iqr": 699.0,
+  "footfall_lower_bound": -48.5,
+  "footfall_upper_bound": 2747.5,
+  "footfall_outliers_capped": 4,
+  "remaining_missing_values": 0,
+  "ml_target": "hygiene_risk",
+  "ml_target_note": "Synthetic educational target generated after cleaning; replace with historical labeled outcomes for production use."
+}
