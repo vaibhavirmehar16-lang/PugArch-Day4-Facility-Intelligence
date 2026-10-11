@@ -1,7 +1,7 @@
 # PugArch Technology — Day 4 Facility Intelligence & ML Platform
 
 > **Production-style upgrade of the Day 3 analytics project:** a full-stack Facility Hygiene Risk platform with a FastAPI backend, React frontend, supervised machine learning, evaluation, explainable operational prioritization, and a REST API for live predictions.
-
+Demo Link-https://pugarch-day4-facility-intelligence-1.onrender.com/
 ## 1. Executive Summary
 
 Day 3 answered **“What is happening?”** using data cleaning, EDA, statistical analysis and visualization.
